@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Parthbajaj/bigGuy/static/css/main.d5885074.css",
+    "main.js": "/Parthbajaj/bigGuy/static/js/main.374a4cf1.js",
+    "static/js/787.fac666af.chunk.js": "/Parthbajaj/bigGuy/static/js/787.fac666af.chunk.js",
+    "static/media/model1.png": "/Parthbajaj/bigGuy/static/media/model1.da43498809bf6591f6c0.png",
+    "static/media/model.png": "/Parthbajaj/bigGuy/static/media/model.7597864fb349193908af.png",
+    "static/media/Montserrat-Regular.otf": "/Parthbajaj/bigGuy/static/media/Montserrat-Regular.65bc44fbf8204991497c.otf",
+    "static/media/model2.png": "/Parthbajaj/bigGuy/static/media/model2.bee52852c13f673958b0.png",
+    "static/media/BebasNeue Bold.ttf": "/Parthbajaj/bigGuy/static/media/BebasNeue Bold.ea0a2d99a89950317a4f.ttf",
+    "static/media/offer_food.png": "/Parthbajaj/bigGuy/static/media/offer_food.be9ee369f911010b8e65.png",
+    "static/media/banner.png": "/Parthbajaj/bigGuy/static/media/banner.4e3e9e694e16e54ebbca.png",
+    "static/media/subOffer.png": "/Parthbajaj/bigGuy/static/media/subOffer.d9eb650a075bf6fc4c12.png",
+    "static/media/subOffer2.png": "/Parthbajaj/bigGuy/static/media/subOffer2.66800538ef8400e98f6d.png",
+    "static/media/AvenirLTStd-Book.otf": "/Parthbajaj/bigGuy/static/media/AvenirLTStd-Book.813557df4c7a90b1a474.otf",
+    "static/media/cluckets.png": "/Parthbajaj/bigGuy/static/media/cluckets.c4f43ec7844a3009f3c1.png",
+    "static/media/burger.png": "/Parthbajaj/bigGuy/static/media/burger.cce19e4f48365cba2b2f.png",
+    "static/media/combo.png": "/Parthbajaj/bigGuy/static/media/combo.d58da1e91ec22d9c81b9.png",
+    "static/media/wings.png": "/Parthbajaj/bigGuy/static/media/wings.6e9dba42e053e066a6ca.png",
+    "static/media/fries.png": "/Parthbajaj/bigGuy/static/media/fries.2fbc690745b42670ba44.png",
+    "static/media/shake.png": "/Parthbajaj/bigGuy/static/media/shake.eb2130befb593ec3c2fe.png",
+    "static/media/Layer_1-2.png": "/Parthbajaj/bigGuy/static/media/Layer_1-2.a735766de40ff58367de.png",
+    "static/media/dips.png": "/Parthbajaj/bigGuy/static/media/dips.3e44067af4416b6e571a.png",
+    "index.html": "/Parthbajaj/bigGuy/index.html",
+    "main.d5885074.css.map": "/Parthbajaj/bigGuy/static/css/main.d5885074.css.map",
+    "main.374a4cf1.js.map": "/Parthbajaj/bigGuy/static/js/main.374a4cf1.js.map",
+    "787.fac666af.chunk.js.map": "/Parthbajaj/bigGuy/static/js/787.fac666af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5885074.css",
+    "static/js/main.374a4cf1.js"
+  ]
+}
